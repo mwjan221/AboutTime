@@ -1,0 +1,22 @@
+{
+  "name": "abouttime",
+  "version": "1.0.0",
+  "description": "Gets-date-and-time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwjan221/AboutTime.git"
+  },
+  "author": "Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwjan221/AboutTime/issues"
+  },
+  "homepage": "https://github.com/mwjan221/AboutTime#readme",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
+}
